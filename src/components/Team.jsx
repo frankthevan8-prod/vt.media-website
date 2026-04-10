@@ -10,7 +10,7 @@ const members = [
   {
     photo: '/andy.png',
     objectPosition: 'center 18%',
-    name: 'Andy Trancao',
+    name: 'Andy',
     role: 'Co-Founder · Social Media Veteran',
     bio: '10+ years in the social media game. Hundreds of millions of views generated for himself and his clients. Andy has seen every trend, survived every algorithm change, and knows exactly what makes content spread.',
     handle: '@andytrancao_',

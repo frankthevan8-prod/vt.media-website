@@ -15,7 +15,7 @@ const InstagramIcon = () => (
 
 const people = [
   {
-    name: 'Andy Trancao',
+    name: 'Andy',
     role: 'Co-Founder',
     email: 'andy@vsmm.co',
     handle: '@andytrancao_',
