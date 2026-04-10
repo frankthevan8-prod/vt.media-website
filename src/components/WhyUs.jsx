@@ -10,7 +10,7 @@ export default function WhyUs() {
   const ref = useScrollAnimation()
 
   return (
-    <section id="contact" className="py-20 px-6" style={{ background: '#080808' }} ref={ref}>
+    <section id="contact" className="py-12 px-6" style={{ background: '#080808' }} ref={ref}>
       <div className="max-w-3xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">

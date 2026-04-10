@@ -54,7 +54,7 @@ export default function Services() {
   const ref = useScrollAnimation()
 
   return (
-    <section id="services" className="py-20 px-6" style={{ background: '#0a0a0a' }} ref={ref}>
+    <section id="services" className="py-12 px-6" style={{ background: '#0a0a0a' }} ref={ref}>
       <div className="max-w-5xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">

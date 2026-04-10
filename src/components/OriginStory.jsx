@@ -4,7 +4,7 @@ export default function OriginStory() {
   const ref = useScrollAnimation()
 
   return (
-    <section id="about" className="py-20 px-6" style={{ background: '#0a0a0a' }} ref={ref}>
+    <section id="about" className="py-12 px-6" style={{ background: '#0a0a0a' }} ref={ref}>
       <div className="metal-divider mb-20 animate-on-scroll" />
 
       <div className="max-w-2xl mx-auto text-center">

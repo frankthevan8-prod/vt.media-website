@@ -34,7 +34,7 @@ export default function Contact() {
   const ref = useScrollAnimation()
 
   return (
-    <section id="reach-out" className="py-20 px-6" style={{ background: '#080808' }} ref={ref}>
+    <section id="reach-out" className="py-12 px-6" style={{ background: '#080808' }} ref={ref}>
       <div className="max-w-2xl mx-auto">
 
         <div className="metal-divider mb-16 animate-on-scroll" />

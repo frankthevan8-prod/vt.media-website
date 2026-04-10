@@ -4,7 +4,7 @@ export default function FreeAudit() {
   const ref = useScrollAnimation()
 
   return (
-    <section id="audit" className="py-20 px-6" style={{ background: '#0a0a0a' }} ref={ref}>
+    <section id="audit" className="py-12 px-6" style={{ background: '#0a0a0a' }} ref={ref}>
       <div className="max-w-3xl mx-auto">
         <div className="audit-card rounded-lg p-12 md:p-20 text-center">
 
