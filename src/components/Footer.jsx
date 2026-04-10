@@ -13,6 +13,7 @@ export default function Footer() {
         <img
           src="/vt_logo_v1.svg"
           alt="VT Media"
+          loading="lazy"
           style={{ height: 32, width: 'auto' }}
         />
 

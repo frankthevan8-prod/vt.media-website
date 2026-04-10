@@ -57,6 +57,7 @@ export default function Team() {
               <img
                 src={m.photo}
                 alt={m.name}
+                loading="lazy"
                 className="avatar-glow"
                 style={{
                   width: 130,
