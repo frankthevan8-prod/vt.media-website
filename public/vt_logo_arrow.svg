@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background circle matching VT brand -->
+  <circle cx="200" cy="200" r="200" fill="#EBEBEB"/>
+
+  <!-- Arrow icon: vertical stem + outlined downward triangle -->
+  <!-- Vertical stem — passes through the triangle to the apex -->
+  <line
+    x1="200" y1="95"
+    x2="200" y2="315"
+    stroke="#1A1A1A"
+    stroke-width="17"
+    stroke-linecap="round"
+  />
+  <!-- Outlined downward-pointing triangle -->
+  <polygon
+    points="200,315 90,195 310,195"
+    fill="none"
+    stroke="#1A1A1A"
+    stroke-width="17"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>
